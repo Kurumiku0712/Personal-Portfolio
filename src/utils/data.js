@@ -99,7 +99,7 @@ export const WORK_EXPERIENCE = [
         date: "Jun 2024 – Jul 2024",
         responsibilities: [
             "The University of Melbourne, Melbourne, VIC",
-            "Created a personal portfolio website, incorporating sections for personal details with downloadable CV and social media links, skills and projects Website Link: https://kurumiku.pythonanywhere.com/",
+            "Created a personal portfolio website, incorporating sections for personal details with downloadable CV and social media links, skills and projects Website Link: https://kurumiku0712.github.io/personal-portfolio/",
             "Relevant Skills: React.js, html5, css3, GitHub Pages",
         ],
     },
