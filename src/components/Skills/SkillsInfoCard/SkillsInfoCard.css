@@ -1,7 +1,7 @@
 .skills-info-card {
     min-height: 23rem;
     border-radius: 0.65rem;
-    border: 1.5px solid #6751b9;
+    border: 1.5px solid #5162b9;
     background: rgba(16, 21, 86, 0.3);
     backdrop-filter: blur(1rem);
 }
@@ -14,7 +14,7 @@
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    border-bottom: 1.5px solid #6751b9;
+    border-bottom: 1.5px solid #5162b9;
 }
 
 .skills-info-content {

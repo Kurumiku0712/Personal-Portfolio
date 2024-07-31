@@ -6,7 +6,7 @@ function Navbar() {
     const handleNavClick = (event, id) => {
         event.preventDefault();
         const element = document.getElementById(id);
-        const offset = 60; 
+        const offset = 70; 
         const bodyRect = document.body.getBoundingClientRect().top;
         const elementRect = element.getBoundingClientRect().top;
         const elementPosition = elementRect - bodyRect;

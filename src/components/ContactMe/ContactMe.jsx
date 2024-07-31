@@ -23,7 +23,7 @@ function ContactMe() {
                         rel="noreferrer">
                         <ContactInfoCard
                             iconUrl="./assets/images/facebook-icon.png"
-                            text="https://www.facebook.com/profile.php?id=61551402966597"
+                            text="facebook"
                         />
                     </a>
                     <a
@@ -32,7 +32,7 @@ function ContactMe() {
                         rel="noreferrer">
                         <ContactInfoCard
                             iconUrl="./assets/images/bilibili-icon.png"
-                            text="https://space.bilibili.com/16071539"
+                            text="bilibili"
                         />
                     </a>
                 </div>

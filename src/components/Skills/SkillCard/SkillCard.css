@@ -1,6 +1,6 @@
 .skills-card {
     border-radius: 0.65rem;
-    border:1.5px solid #6751b9;
+    border:1.5px solid #6c82e7;
     padding: 2.5rem;
     text-align: center;
     background: rgba(16, 23, 69, 0.4);
@@ -12,7 +12,7 @@
 
 .skills-card:hover,
 .skills-card.active {
-    background: linear-gradient(90deg, #3b46c6 0%, #71a0ff 50%, #3b46c6 100%);
+    background: linear-gradient(90deg, #3b46c6 0%, #71a0ff 100%);
 }
 
 .skills-card span {
