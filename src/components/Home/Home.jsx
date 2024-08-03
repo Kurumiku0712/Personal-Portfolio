@@ -22,7 +22,7 @@ function Home() {
                         <span>LinkedIn</span>
                     </a>
                     <a
-                        href="./assets/files/cv.pdf"
+                        href="./assets/files/resume.pdf"
                         className="info-item"
                         download="Percy_Yang_CV.pdf">
                         <img src="./assets/images/download-icon.png" alt="CV" />
