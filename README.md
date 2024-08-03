@@ -1,4 +1,10 @@
-Link: https://kurumiku0712.github.io/Personal-Portfolio/
+## Website Link: 
+
+https://main.d1ynsn29ptnlv.amplifyapp.com/
+
+or
+
+https://kurumiku0712.github.io/Personal-Portfolio/
 
 # Getting Started with Create React App
 
