@@ -24,7 +24,6 @@ Make sure you have Node.js and npm installed on your machine. You can download N
 2. Install dependencies
    ```bash
    cd Personal-Portfolio
-   ```bash
    npm install
 
 3. Run
