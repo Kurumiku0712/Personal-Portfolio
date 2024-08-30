@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio website! This project was built using React and CSS, which showcases my skills, projects, and provides a way to contact me. The website includes four main modules: Home, Skills, Projects, and Contact Me.
+Welcome to my personal portfolio website! This project was built using React.js and CSS3, which showcases my skills, projects, and provides a way to contact me. The website includes four main modules: Home, Skills, Projects, and Contact Me.
 
 ## Website Link
 
